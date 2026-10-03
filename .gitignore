@@ -1,17 +1,17 @@
-# Virtual environment
 venv/
-
-# Environment variables / secrets
 .env
 .env.*
-
-# Python cache
+credentials.json
+token.json
 __pycache__/
 *.pyc
-
-# IDE
 .vscode/
-
-# OS
 .DS_Store
 Thumbs.db
+
+# Local database
+email_triage.db
+
+# Frontend dependencies/build
+frontend/node_modules/
+frontend/dist/
