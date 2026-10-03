@@ -582,3 +582,17 @@ https://github.com/ShivrajsinhRathod
 ## 📄 License
 
 This project is currently intended for development and educational purposes.
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Inbox
+
+![Inbox](screenshots/inbox.png)
+
+### AI Priority
+
+![AI Priority](screenshots/ai-priority.png)
